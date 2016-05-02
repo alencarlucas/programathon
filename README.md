@@ -14,5 +14,3 @@ Exemplo: URI-1001
 Os slides (apresentações) estão na pasta "Slides".
 
 Materiais gerais estão na pasta "Materiais".
-
-Enviem suas soluções :)
